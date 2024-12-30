@@ -21,7 +21,7 @@ body{
 .box img{
 	width: 100%;
 	max-height: 350px;
-	object-fit: cover;
+	object-fit: contain;
 	border-radius: 20px 0 20px 0;
 	margin-bottom: 10px;
 	background-color: #7a1818;
